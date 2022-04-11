@@ -12,10 +12,10 @@ In terminal first you have to be in c:xampp/mysql/bin folder [Wherever you insta
 <b>show databases;</b><br />
 
 ### How to create databases
-<b>CREATE DATABASE `name of your databases`</b>
+<b>CREATE DATABASE ``name of your databases``</b>
 
 ### How to use or Enter in the database
-<b>USE `name of the databases`</b>
+<b>USE ``name of the databases``</b>
 
 ### How to create table
 <b>CREATE TABLE </b>
