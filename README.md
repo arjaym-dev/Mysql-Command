@@ -28,4 +28,4 @@ In terminal first you have to be in c:xampp/mysql/bin folder [Wherever you insta
 <b>show tables;</b>
 
 ### How to see the fields inside of the table
-<b>desc `"`[table name]`"`</b>
+<b>desc `[table name]`</b>
