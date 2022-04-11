@@ -18,4 +18,14 @@ In terminal first you have to be in c:xampp/mysql/bin folder [Wherever you insta
 <b>USE `[name of the databases]`</b>
 
 ### How to create table
-<b>CREATE TABLE </b>
+<b>CREATE TABLE user (
+	name varchar(255) not null,
+	age int(255) not null
+);
+</b>
+
+### How to show tables
+<b>show tables;</b>
+
+### How to see the fields inside of the table
+<b>desc `"`[table name]`"`</b>
