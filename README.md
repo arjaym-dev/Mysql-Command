@@ -4,5 +4,5 @@
 
 In terminal first you have to be in c:xampp/mysql/bin folder [Wherever you install your mysql]
 
-mysql -u root // To enter in mariaDB
-show databases; // To show list of databases we have
+<b>mysql -u root</b> // To enter in mariaDB
+<b>show databases;</b> // To show list of databases we have
